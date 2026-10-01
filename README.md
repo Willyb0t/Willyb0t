@@ -30,7 +30,7 @@ Building end-to-end data & ML solutions — from satellite-image deep learning t
 |---|---|---|
 | [**VOC Analytics Platform**](https://github.com/Willyb0t/voc_from_social_media) | Extracts sentiment & feature insights from YouTube reviews via a locally-hosted LLM | `Python` `Ollama` `Flask` `Next.js` |
 | [**Student Dropout Prediction**](https://github.com/Willyb0t/student_dropout_DS) | Compared KNN vs. Decision Tree on 143K+ student records — 99.15% accuracy, 99.47% F1 | `Python` `scikit-learn` `Pandas` |
-| [**ELT Pipeline for SAP B1**](https://github.com/Willyb0t/elt-sap-b1-pipeline) | Enterprise ELT pipeline feeding a PostgreSQL warehouse for PowerBI reporting | `Airflow` `dbt` `PostgreSQL` `Docker` |
+| [**ELT Pipeline for SAP B1**](https://github.com/Willyb0t/elt-sap-b1-pipeline) | Enterprise ELT pipeline feeding a PostgreSQL warehouse for PowerBI reporting (can't show this one due to it's a private project for the company) | `Airflow` `dbt` `PostgreSQL` `Docker` |
 | [**LoRaWAN Asset Tracking**](https://github.com/Willyb0t/LORA-tracker) | Real-time, low-power asset tracking with a live map dashboard | `ESP32` `Django` `MQTT` `React` |
 
 ---
