@@ -9,6 +9,7 @@ Building end-to-end data & ML solutions — from satellite-image deep learning t
 [![Portfolio](https://img.shields.io/badge/Portfolio-willyb0t.vercel.app-000816?style=for-the-badge&logo=vercel&logoColor=white)](https://willyb0t.vercel.app)
 [![Email](https://img.shields.io/badge/Email-jsschvz09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsschvz09@gmail.com)
 [![English C1](https://img.shields.io/badge/English-C1%20Certified-4285F4?style=for-the-badge)](https://cert.efset.org/en/kWoXNR)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-4285F4?style=for-the-badge)](https://wwww.linkedin.com/in/jesus-elian-peralta-chavez-8304a221a)
 
 </div>
 
